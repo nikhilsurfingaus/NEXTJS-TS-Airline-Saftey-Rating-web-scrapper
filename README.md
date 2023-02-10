@@ -24,14 +24,10 @@ Airline Saftey Rating Web Parser provides users with the simple experience of ge
 
 ## Screenshots 
 <p float="left">
-  <img src="https://github.com/nikhilsurfingaus/SaveYT.net/blob/master/frontend/src/assets/Help/Help1.jpg" height=45% width=45% />
-  <img src="https://github.com/nikhilsurfingaus/SaveYT.net/blob/master/frontend/src/assets/Help/Help2.png" height=45% width=45% />
-  <img src="https://github.com/nikhilsurfingaus/SaveYT.net/blob/master/frontend/src/assets/Help/Help3.png" height=45% width=45% />
-  <img src="https://github.com/nikhilsurfingaus/SaveYT.net/blob/master/frontend/src/assets/Help/Help4.png" height=45% width=45% />
-  <img src="https://github.com/nikhilsurfingaus/SaveYT.net/blob/master/frontend/src/assets/Help/Help5.png" height=45% width=45% />
-  <img src="https://github.com/nikhilsurfingaus/SaveYT.net/blob/master/frontend/src/assets/Help/Help6.jpg" height=45% width=45% />
-  <img src="https://github.com/nikhilsurfingaus/SaveYT.net/blob/master/frontend/src/assets/Help/Help7.jpg" height=45% width=45% />
-
+  <img src="https://github.com/nikhilsurfingaus/NEXTJS-TS-Airline-Saftey-Rating-web-scrapper/blob/main/src/assets/1.jpg" />
+  <img src="https://github.com/nikhilsurfingaus/NEXTJS-TS-Airline-Saftey-Rating-web-scrapper/blob/main/src/assets/2.jpg"  />
+  <img src="https://github.com/nikhilsurfingaus/NEXTJS-TS-Airline-Saftey-Rating-web-scrapper/blob/main/src/assets/3.jpg" />
+  <img src="https://github.com/nikhilsurfingaus/NEXTJS-TS-Airline-Saftey-Rating-web-scrapper/blob/main/src/assets/4.jpg" />
 </p>
 
 ## Libraries
