@@ -18,11 +18,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.sv
 ## Description 
 Airline Saftey Rating Web Parser provides users with the simple experience of getting a safety rating for an airline as an input and output a rating /7 
 
-Our website offers the following features:
-- Download Youtube Vidoes mp3/mp4
-- Help Section on how to download videos
-- Install guide to run application on a local server
-
 ## Video Demo 
 [![Watch the video](https://img.youtube.com/vi/kIKB0-A1fVk/hqdefault.jpg)](https://youtu.be/kIKB0-A1fVk)
 
@@ -39,49 +34,29 @@ Our website offers the following features:
 
 </p>
 
-## Local Install
-- Download this project using:
-```
-git clone https://github.com/nikhilsurfingaus/SaveYT.net.git
-```
-- Setup Two Terminals
-- Navigate to the Backend folder and use:
-```
-npm start
-```
-To ensure the Backend runs on Port 4000
-- Navigate to the Frontend and start the web application using
-```
-npm start
-```
-
 ## Libraries
-        "cors": "^2.8.5",
-        "dotenv": "^16.0.3",
-        "express": "^4.18.2",
-        "nodemon": "^2.0.20",
-        "ytdl-core": "^4.11.2"
-        "@fortawesome/fontawesome-free": "^6.2.1",
-        "@testing-library/jest-dom": "^5.16.5",
-        "@testing-library/react": "^13.4.0",
-        "@testing-library/user-event": "^13.5.0",
-        "animate.css": "^4.1.1",
-        "antd": "^5.1.1",
-        "axios": "^1.2.2",
-        "cdbreact": "^1.5.4",
-        "mdb-react-ui-kit": "^5.1.0",
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0",
-        "react-github-user-stats": "^1.0.9",
-        "react-icons": "^4.7.1",
-        "react-router-dom": "^6.6.1",
-        "react-scripts": "5.0.1",
-        "react-simple-image-slider": "^2.4.1",
-        "react-tooltip": "^5.3.2",
-        "react-ui-cards": "^3.0.2",
-        "reactstrap": "^9.1.5",
-        "styled-components": "^5.3.6",
-        "web-vitals": "^2.1.4"
+        "@emotion/react": "^11.10.5",
+        "@next/font": "13.1.6",
+        "@types/node": "18.13.0",
+        "@types/react": "18.0.27",
+        "@types/react-dom": "18.0.10",
+        "axios": "^1.3.2",
+        "bootstrap": "^5.2.3",
+        "clone-deep": "^4.0.1",
+        "eslint": "8.33.0",
+        "eslint-config-next": "13.1.6",
+        "jsdom": "^21.1.0",
+        "net": "^1.0.2",
+        "next": "13.1.6",
+        "opensea-scraper": "^6.6.0",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "react-loader-spinner": "^5.3.4",
+        "react-modal": "^3.16.1",
+        "react-spinners": "^0.13.8",
+        "react-stars": "^2.2.5",
+        "star-rating-react-ts": "^1.0.7",
+        "typescript": "4.9.5"
 
 ## Copyright
 
