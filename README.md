@@ -19,7 +19,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.sv
 Airline Saftey Rating Web Parser provides users with the simple experience of getting a safety rating for an airline as an input and output a rating /7 
 
 ## Video Demo 
-[![Watch the video](https://img.youtube.com/vi/kIKB0-A1fVk/hqdefault.jpg)](https://youtu.be/kIKB0-A1fVk)
+[![Watch the video](https://img.youtube.com/vi/Swf93Ros7sk/hqdefault.jpg)](https://youtu.be/Swf93Ros7sk)
 
 
 ## Screenshots 
